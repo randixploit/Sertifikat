@@ -17,7 +17,7 @@
 
 # Dari Dinas Komunikasi Informatikan Dan Statistik Kota Magelang (2025/01/09)
 
-<img sec="https://raw.githubusercontent.com/randixploit/Certificate/refs/heads/main/sertifikat%20Randiansyah_sign.jpg">
+<img src="https://raw.githubusercontent.com/randixploit/Certificate/refs/heads/main/sertifikat%20Randiansyah_sign.jpg">
 
 
 # Dari Dinas Komunikasi Dan Informatika Kabupaten Jombang (2025/01/20)
