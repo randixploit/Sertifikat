@@ -1,4 +1,4 @@
-# Bug Bounty Appreciation Certificate
+# Sertifikat Apresiasi Bug Hunting
 
 # Dari Lembaga Kursus Dan Pendidikan Potensi Nusantara (2024/12/11)
 
