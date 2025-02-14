@@ -40,6 +40,6 @@
 <img src="https://raw.githubusercontent.com/randixploit/Certificate/refs/heads/main/20250204_151329.jpg">
 
 
-# Dari Dinas Komunikasi, Informatika, Persandian, dan Statistik Provinsi Sulawesi Selatan (2025/02/12)
+# Dari Dinas Komunikasi, Informatika, Persandian, dan Statistik Provinsi Sulawesi Tengah (2025/02/12)
 
 <img src="https://github.com/randixploit/Certificate/blob/main/20250210134024_Randiansyah_page-0001.jpg?raw=true">
