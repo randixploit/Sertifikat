@@ -44,6 +44,6 @@
 
 <img src="https://github.com/randixploit/Certificate/blob/main/20250210134024_Randiansyah_page-0001.jpg?raw=true">
 
-# Dari Dinas Komunikasi Informarika, Statistik dan Persandian (2025/02/18)
+# Dari Dinas Komunikasi Informarika, Statistik dan Persandian Kabupaten Blitar (2025/02/18)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20-%20Bug_page-0001.jpg">
