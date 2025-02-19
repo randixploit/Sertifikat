@@ -47,3 +47,7 @@
 # Dari Dinas Komunikasi Informarika, Statistik dan Persandian Kabupaten Blitar (2025/02/18)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20-%20Bug_page-0001.jpg">
+
+# Dari Dinas Komunikasi Informatika Dan Statistik Provinsi Riau (2025/02/19)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20celah%20kerentanan%20Randiansyah_sign.jpg">
