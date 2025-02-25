@@ -51,3 +51,7 @@
 # Dari Dinas Komunikasi Informatika Dan Statistik Provinsi Riau (2025/02/19)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20celah%20kerentanan%20Randiansyah_sign.jpg">
+
+# Dari Dinas Komunikasi Dan Informatika Kabupaten Madiun (24/02/2025)
+
+<img src="https://github.com/randixploit/Sertifikat/blob/main/Sertifikat%20Bug%20Hunter%20RANDIANSYAH%202025_sign_page-0001.jpg?raw=true">
