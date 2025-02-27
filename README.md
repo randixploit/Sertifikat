@@ -56,6 +56,6 @@
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/Sertifikat%20Bug%20Hunter%20RANDIANSYAH%202025_sign_page-0001.jpg?raw=true">
 
-# Dari Dinas Komunikasi Informatika dan Persandian Kota Jogjakarta 
+# Dari Dinas Komunikasi Informatika dan Persandian Kota Jogjakarta  (2025/02/27)
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/20250227%20Randiansyah_sign_page-0001.jpg?raw=true">
