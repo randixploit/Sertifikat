@@ -61,14 +61,15 @@
 <img src="https://github.com/randixploit/Sertifikat/blob/main/20250227%20Randiansyah_sign_page-0001.jpg?raw=true">
 
 
-# Dari Dinas Komunikasi Dan Informatika Kabupaten Sidoarjo 
+# Dari Dinas Komunikasi Dan Informatika Kabupaten Sidoarjo 2
+(27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/qyRqvCiXyyw1r13f1740638262eb2959f9ad2196b742439cf5df7cfa68_signed_page-0001.jpg">
 
-# Dari Dinas Komunikasi Dan Informatika Kabupaten Sukoharjo 
+# Dari Dinas Komunikasi Dan Informatika Kabupaten Sukoharjo (27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/IMG_20250228_141431_879.jpg">
 
-# Dari Kementrian PPB/Bappenas
+# Dari Kementrian PPB/Bappenas (27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Appreciation%20Certificate%20Bappenas-CSIRT_Randiansyah_ttds_page-0001.jpg">
