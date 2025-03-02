@@ -61,8 +61,7 @@
 <img src="https://github.com/randixploit/Sertifikat/blob/main/20250227%20Randiansyah_sign_page-0001.jpg?raw=true">
 
 
-# Dari Dinas Komunikasi Dan Informatika Kabupaten Sidoarjo 2
-(27/02/2025)
+# Dari Dinas Komunikasi Dan Informatika Kabupaten Sidoarjo (27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/qyRqvCiXyyw1r13f1740638262eb2959f9ad2196b742439cf5df7cfa68_signed_page-0001.jpg">
 
