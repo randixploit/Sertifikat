@@ -1,7 +1,7 @@
 # Sertifikat Apresiasi Bug Hunting
 <p align="center"> 
   <b> Visitor Count </b><br><br>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=randixploit&repo=crlfuzzer&countColor=%237B1E7A" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=randixploit&repo=Sertifikat&countColor=%237B1E7A" />
 </p><br>
 
 # Dari Lembaga Kursus Dan Pendidikan Potensi Nusantara (2024/12/11)
