@@ -88,3 +88,7 @@
 # Dari Dinas Komunikasi Dan Informatika Kabupaten Bangkalan (11/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20Bug%20Hunter%20Randiansyah_sign_sign_page-0001.jpg">
+
+# Dari Dinas Komunikasi dan Informatika Kabupaten Purbalingga (12/03/2025)
+
+<img src="https://github.com/randixploit/Sertifikat/blob/main/Randiansyah-1_sign_1741760385115_page-0001.jpg?raw=true">
