@@ -77,6 +77,15 @@
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Appreciation%20Certificate%20Bappenas-CSIRT_Randiansyah_ttds_page-0001.jpg">
 
+# Dari Dinas Komunikasi dan Informatika Kabupaten Bantul (03/03/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_page-0001.jpg">
+
+# Dari Dinas Kementerian Kesehatan (03/03/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/SERTIFIKAT_Randiansyah_sign_1740986722850_page-0001.jpg">
+
+
 # Dari Diskominfo Provinsi Jambi (04/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_signed_signed_signed_page-0001.jpg">
