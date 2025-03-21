@@ -106,6 +106,8 @@
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/20250228130446Randiansyah_page-0001.jpg">
 
-# 24. Dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)
+# 24. Dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) (13/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/049%20Sertifikat%20Apresiasi_Randiansyah_1741835838853_page-0001.jpg">
+
+# 25. Dari Kementerian Energi dan Sumber Daya Mineral (ESDM) (20/03/2025)
