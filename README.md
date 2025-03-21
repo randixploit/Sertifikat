@@ -106,7 +106,7 @@
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/Randiansyah-1_sign_1741760385115_page-0001.jpg?raw=true">
 
-# 24. Dari Dinas Komunikasi dan Informatika (13/03/2025)
+# 24. Dari Dinas Komunikasi dan Informatika Kota Pekalongan (13/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/20250228130446Randiansyah_page-0001.jpg">
 
