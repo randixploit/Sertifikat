@@ -117,3 +117,7 @@
 # 26. Dari Kementerian Energi dan Sumber Daya Mineral (ESDM) (20/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20an.%20Randiansyah_1742440878824.jpg">
+
+# 27. Dari Diskominfo Provinsi Kalteng
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20an.%20Randiansyah_sign_1742894474178_page-0001.jpg">
