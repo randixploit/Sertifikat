@@ -64,60 +64,71 @@
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/20250227%20Randiansyah_sign_page-0001.jpg?raw=true">
 
+# 14. Dari Komunitas Informasi Statistik dan Persandian Kabupaten Kuansing (28/02/2025)
 
-# 14. Dari Dinas Komunikasi Dan Informatika Kabupaten Sidoarjo (27/02/2025)
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/signed_16-199208092022031001-1740713088_page-0001.jpg">
+
+# 15. Dari Dinas Komunikasi Dan Informatika Kabupaten Sidoarjo (27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/qyRqvCiXyyw1r13f1740638262eb2959f9ad2196b742439cf5df7cfa68_signed_page-0001.jpg">
 
-# 15. Dari Dinas Komunikasi Dan Informatika Kabupaten Sukoharjo (27/02/2025)
+# 16. Dari Dinas Komunikasi Dan Informatika Kabupaten Sukoharjo (27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/IMG_20250228_141431_879.jpg">
 
-# 16. Dari Dinas Komunikasi, Informasi, Statistik dan Persandian Kabupaten Pesawaran (03/032025)
+# 17. Dari Dinas Komunikasi, Informasi, Statistik dan Persandian Kabupaten Pesawaran (03/032025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_signed_page-0001.jpg">
 
-# 17. Dari Kementrian PPB/Bappenas (27/02/2025)
+# 18. Dari Kementrian PPB/Bappenas (27/02/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Appreciation%20Certificate%20Bappenas-CSIRT_Randiansyah_ttds_page-0001.jpg">
 
-# 18. Dari Dinas Komunikasi dan Informatika Kabupaten Bantul (03/03/2025)
+# 19. Dari Dinas Komunikasi dan Informatika Kabupaten Bantul (03/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_page-0001.jpg">
 
-# 19. Dari Dinas Kementerian Kesehatan (03/03/2025)
+# 20. Dari Dinas Kementerian Kesehatan (03/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/SERTIFIKAT_Randiansyah_sign_1740986722850_page-0001.jpg">
 
 
-# 20. Dari Diskominfo Provinsi Jambi (04/03/2025)
+# 21. Dari Diskominfo Provinsi Jambi (04/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_signed_signed_signed_page-0001.jpg">
 
-# 21. Dari Dinas Komunikasi, Informatika, Statistika dan Persandian Kota Bekasi (10/03/2025)
+# 22. Dari Dinas Komunikasi, Informatika, Statistika dan Persandian Kota Bekasi (10/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20%5B912%5D%20RANDIANSYAH_sign_page-0001.jpg">
 
-# 22. Dari Dinas Komunikasi Dan Informatika Kabupaten Bangkalan (11/03/2025)
+# 23. Dari Dinas Komunikasi Dan Informatika Kabupaten Bangkalan (11/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20Bug%20Hunter%20Randiansyah_sign_sign_page-0001.jpg">
 
-# 23. Dari Dinas Komunikasi dan Informatika Kabupaten Purbalingga (12/03/2025)
+# 24. Dari Dinas Komunikasi dan Informatika Kabupaten Purbalingga (12/03/2025)
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/Randiansyah-1_sign_1741760385115_page-0001.jpg?raw=true">
 
-# 24. Dari Dinas Komunikasi dan Informatika Kota Pekalongan (13/03/2025)
+# 25. Dari Dinas Komunikasi dan Informatika Kota Pekalongan (13/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/20250228130446Randiansyah_page-0001.jpg">
 
-# 25. Dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) (13/03/2025)
+# 26. Dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) (13/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/049%20Sertifikat%20Apresiasi_Randiansyah_1741835838853_page-0001.jpg">
 
-# 26. Dari Kementerian Energi dan Sumber Daya Mineral (ESDM) (20/03/2025)
+# 27. Dari Kementerian Energi dan Sumber Daya Mineral (ESDM) (20/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20an.%20Randiansyah_1742440878824.jpg">
 
-# 27. Dari Diskominfo Provinsi Kalteng
+# 28. Dari Diskominfo Provinsi Kalteng (25/03/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20an.%20Randiansyah_sign_1742894474178_page-0001.jpg">
+
+# 29. Dari MIL-CSIRT TNI (08/04/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_1744101971960_page-0001.jpg">
+
+# 30. Dari CSIRT KPK (09/04/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20CSIRT%20KPK%20Randiansyah%20(1)_page-0001.jpg">
