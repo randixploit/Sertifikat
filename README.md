@@ -132,3 +132,11 @@
 # 30. Dari CSIRT KPK (09/04/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20CSIRT%20KPK%20Randiansyah%20(1)_page-0001.jpg">
+
+# 31. Dari CSIRT Kabupaten Gresik (23/04/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/004%20SERTIFIKAT%20APRESIASI_page-0001.jpg">
+
+# 32. Dari CSIRT Komdigi (25/04/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Apresiasi%20Randiansyah%20-%20IDOR%20(1)_1745567722933_page-0001.jpg">
