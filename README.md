@@ -140,3 +140,7 @@
 # 32. Dari CSIRT Komdigi (25/04/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Apresiasi%20Randiansyah%20-%20IDOR%20(1)_1745567722933_page-0001.jpg">
+
+# 33. Dari BBP/VDP Bali Prov (07/05/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Jo27UQnDnX3MWyP9nJXj54Yfq1jLb6OXnYA4HhahyttJ231pGN_1746615963454_page-0001.jpg">
