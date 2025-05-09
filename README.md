@@ -145,6 +145,10 @@
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Jo27UQnDnX3MWyP9nJXj54Yfq1jLb6OXnYA4HhahyttJ231pGN_1746615963454_page-0001.jpg">
 
-# 34 Dari Organisasi X-Code (08/05/2025)
+# 34. Dari Organisasi X-Code (08/05/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Certificate%20of%20APPRECIATION%20-%20Randiansyah_page-0001.jpg">
+
+35. Dari Provinsi Jawa Barat CSIRT (08/05/2025)
+
+<img srcxhttps://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20Randiansyah_sign_page-0001.jpg">
