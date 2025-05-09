@@ -151,4 +151,4 @@
 
 35. Dari Provinsi Jawa Barat CSIRT (08/05/2025)
 
-<img srcxhttps://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20Randiansyah_sign_page-0001.jpg">
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20Randiansyah_sign_page-0001.jpg">
