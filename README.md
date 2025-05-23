@@ -152,3 +152,7 @@
 # 35. Dari Provinsi Jawa Barat CSIRT (08/05/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20Randiansyah_sign_page-0001.jpg">
+
+# 36. Dari KG Media (Kompas.com) (23/05/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20atas%20nama%20Randiansyah_1747993207346_page-0001.jpg">
