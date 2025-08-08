@@ -156,3 +156,16 @@
 # 36. Dari KG Media (Kompas.com) (23/05/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20atas%20nama%20Randiansyah_1747993207346_page-0001.jpg">
+
+# 37. Dari Universitas ITB
+(18/07/2025)
+
+<img src="https://github.com/randixploit/Sertifikat/blob/main/CSIRT%20ITB%20-%20Randiansyah%20-%20Bronze%20Certificate.jpeg?raw=true">
+
+# 38. Dari Detikcom (05/08/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Randiansyah_1754384604661.png">
+
+# Dari Kabupaten Jembrana (08/08/2025)
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sdr.%20Radiansyah%20sign_1754626404978_page-0001.jpg">
