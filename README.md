@@ -157,8 +157,7 @@
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sertifikat%20Apresiasi%20atas%20nama%20Randiansyah_1747993207346_page-0001.jpg">
 
-# 37. Dari Universitas ITB
-(18/07/2025)
+# 37. Dari Universitas ITB (18/07/2025)
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/CSIRT%20ITB%20-%20Randiansyah%20-%20Bronze%20Certificate.jpeg?raw=true">
 
