@@ -169,6 +169,6 @@
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/Sdr.%20Radiansyah%20sign_1754626404978_page-0001.jpg">
 
-# Solved chall SQL Injection <a href="//baka.watashino.website">baka.watashino.website</a>
+# Solved chall SQL Injection <a href="//baka.watashino.website">baka.watashino.website</a> (09/08/2025)
 
 <img src="https://github.com/randixploit/Sertifikat/blob/main/IMG-20250809-WA0083.jpg?raw=true">
