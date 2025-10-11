@@ -176,3 +176,7 @@
 # 41. Dari Kementerian Lingkungan Hidup dan Kehutanan (26/08/2025)
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/20250826110219Sertifikat%20Randiansyah_page-0001.jpg">
+
+# 42. Dari Kabupaten Magelang (01/10/2025) 
+
+<img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/2025091516464614.%20Randiansyah_page-0001.jpg">
