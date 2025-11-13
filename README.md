@@ -185,3 +185,7 @@
 # 43. Dari Kabupaten Magelang (01/10/2025) 
 
 <img src="https://raw.githubusercontent.com/randixploit/Sertifikat/refs/heads/main/2025091516464614.%20Randiansyah_page-0001.jpg">
+
+# 44. Dari LinuHackingId (14/11/2025) 
+
+<img src=" https://github.com/randixploit/Sertifikat/blob/main/Certificate%20Bug%20Bounty%20-%20Randiansyah_page-0001.jpg?raw=true ">
